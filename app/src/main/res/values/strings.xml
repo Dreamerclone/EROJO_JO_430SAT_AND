@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiLayoutLogger</string>
+    <string name="btn_open_form">Open Form</string>
+    <string name="btn_open_relative">Open Relative Layout</string>
+</resources>
